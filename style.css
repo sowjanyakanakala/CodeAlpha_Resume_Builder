@@ -1,0 +1,14 @@
+/* #cv-form{
+    display: none;
+} */
+.my-img{
+    width: 200px;
+    border-radius: 50%;
+}
+.profile{
+    background-color: violet;
+}
+
+#cv-template{
+    display: none;
+}
